@@ -1,0 +1,23 @@
+Author: PabloMK7
+
+Version:
+    Major: 1
+    Minor: 0
+    Revision: 1
+
+Targets:
+    - 0x00030600 # JPN
+    - 0x00030700 # EUR
+    - 0x00030800 # USA
+    - 0x00030A00 # KOR
+    - 0x0008B400 # TWN
+
+Title: Mario Kart Tour 7
+
+Summary: MKT7 game extension for MK7
+
+Description: |
+  This plugin is part of the MKT7 modpack, cannot be used separately.
+
+Compatibility: Any
+MemorySize: 5MiB
