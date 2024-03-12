@@ -3,7 +3,7 @@ ifeq ($(strip $(DEVKITPRO)),)
 endif
 
 ENABLE_LINK_TIME_OPTIMIZATIONS := 1
-NAME := mkt7plg
+NAME := mkt7
 
 BUILD_DIR := build
 OUTPUT_DIR := output
